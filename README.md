@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-**Desktop View**
+**Desktop View and Mobile View**
 ![image](https://github.com/abuzerexe/Frontend-Mentor-Result-Challange/assets/140898970/401cf4b6-58df-4c65-90bb-a2753737387d)
 
-**Mobile View**
+
 ![image](https://github.com/abuzerexe/Frontend-Mentor-Result-Challange/assets/140898970/8dcb6985-50ed-4f6f-a187-2a9f54d2c190)
 
 
