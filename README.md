@@ -56,7 +56,6 @@ Youtube- [Traversy Media](https://www.youtube.com/@TraversyMedia)
 
 ## Author
 
-- Frontend Mentor - [@abuzerexe](https://www.frontendmentor.io/profile/abuzerexe)
 - LinkedIn - [Muhammad Abuzer Zia](https://www.linkedin.com/in/abuzerzia/) 
 
 
